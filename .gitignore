@@ -1,0 +1,7 @@
+.env
+/node_modules
+/artifacts
+/cache
+/.deploys
+/js_script
+
